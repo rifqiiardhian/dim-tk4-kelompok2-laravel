@@ -1,0 +1,10 @@
+html, body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #ebebeb;
+}
+.section {
+    margin-top: 50px;
+}
+table.table-admin td {
+    align-items: center;
+}
